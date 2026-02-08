@@ -1,3 +1,7 @@
-Flask
-AI
-PDF processing
+Flask==2.0.1
+Flask-Cors==3.0.10
+TensorFlow==2.6.0
+PyTorch==1.9.0
+transformers==4.6.1
+PyPDF2==1.26.0
+pdfminer.six==20201018
